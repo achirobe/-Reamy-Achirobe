@@ -6,8 +6,8 @@ Data scientist / Data analyst
 
 * 🌍  I'm based in Ghana
 * 🤝  I'm open to collaborating on data science ,machine learning nd AI projects
-* ⚡  I support chelsea football club and like to code
-
+* ⚡  I support chelsea football club and like to code
+* ✉️  You can contact me at [rachirobe@gmail.com / +233592594197](mailto:rachirobe@gmail.com / +233592594197)
 ### Skills
 
 <p align="left">
